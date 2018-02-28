@@ -1,0 +1,2 @@
+# plateRecognition
+基于python和opencv的车牌识别,包括车牌提取和字符识别
